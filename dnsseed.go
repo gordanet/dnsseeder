@@ -21,7 +21,7 @@ import (
 	"github.com/pkg/errors"
 
 	"github.com/gordanet/dnsseeder/version"
-	"github.com/gordanet/infrastructure/network/dnsseed"
+	"github.com/gordanet/gord/infrastructure/network/dnsseed"
 	"github.com/gordanet/gord/util/panics"
 	"github.com/gordanet/gord/util/profiling"
 
